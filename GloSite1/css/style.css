@@ -1,0 +1,38 @@
+.container {
+	font-family: 'Montserrat', sans-serif;
+}
+
+.header {
+	font-size: 20px;
+	line-height: 1.5;
+	margin: 60px auto;
+}
+
+.main_header_text, .second_header {
+	font-weight: 900;
+	text-transform: uppercase;
+}
+
+.form_header {
+	font-weight: 900;
+	font-size: 20px;
+}
+
+.form {
+	border: 3px solid #2727d9;
+	padding: 35px 20px;
+	height: 315px;
+	margin-bottom: 60px;
+	align-items: center;
+}
+
+.form input {
+	margin-bottom: 12px;
+}
+
+.btn-form {
+	width: 100%;
+	background-color: #2727d9;
+	margin: 10px auto;
+}
+
